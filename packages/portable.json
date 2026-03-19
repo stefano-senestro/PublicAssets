@@ -6,12 +6,6 @@
 		"last_updated": "18/03/2026"
 	},
 	{
-		"name": "spatial analyzer",
-		"type": "direct",
-		"url": "https://cachefly.kinematics.com/Protected/expiretime=1773843540;ip=37.60.34.246;badurl=aHR0cHM6Ly9jYWNoZWZseS5raW5lbWF0aWNzLmNvbS9kb3dubG9hZGZhaWxlZFNBLnBocA==/87be9989e5808c57362b68c8c839bb8b/SpatialAnalyzer%202025.2.0916.2-Installer.exe",
-		"last_updated": "18/03/2026"
-	},
-	{
 		"name": "universal updater",
 		"type": "direct",
 		"url": "https://files.ms.hexagonmi.com/public/UniversalUpdater/1.5/release/x64/UniversalUpdater_1.5.720.0_x64.exe",
