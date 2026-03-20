@@ -1,5 +1,26 @@
 [
 	{
+		"name": "autocad lt",
+		"type": "unset",
+		"last_updated": "18/03/2026"
+	},
+	{
+		"name": "survey",
+		"type": "unset",
+		"last_updated": "18/03/2026"
+	},
+	{
+		"name": "land",
+		"type": "unset",
+		"last_updated": "18/03/2026"
+	},
+	{
+		"name": "truview",
+		"type": "ftp",
+		"path": "Top/05 SW/Leica TruView/TruView_Enterprise_Setup.exe",
+		"last_updated": "18/03/2026"
+	},
+	{
 		"name": "google earthpro",
 		"type": "widget",
 		"id": "Google.EarthPro",

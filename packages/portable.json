@@ -6,9 +6,9 @@
 		"last_updated": "18/03/2026"
 	},
 	{
-		"name": "step viewer",
-		"type": "direct",
-		"url": "https://stpviewer.com/download/stviewersetup.exe",
+		"name": "windows desktop-runtime",
+		"type": "ftp",
+		"path": "Srl/05%20SW/New%20River%20Kinematics/SpatialAnalyzer2025.2/windowsdesktop-runtime-6.0.36-win-x64.exe",
 		"last_updated": "18/03/2026"
 	},
 	{
@@ -18,8 +18,15 @@
 		"last_updated": "18/03/2026"
 	},
 	{
+		"name": "step viewer",
+		"type": "direct",
+		"url": "https://stpviewer.com/download/stviewersetup.exe",
+		"last_updated": "18/03/2026"
+	},
+	{
 		"name": "polyworks",
-		"type": "unset",
+		"type": "ftp",
+		"path": "Srl/05%20SW/InnovMetric/PolyWorksMS_2024/PolyWorksMS2024_IR11.zip",
 		"last_updated": "18/03/2026"
 	}
 ]
