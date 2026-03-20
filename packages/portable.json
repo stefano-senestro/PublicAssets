@@ -1,7 +1,8 @@
 [
 	{
 		"name": "spatial analyzer",
-		"type": "unset",
+		"type": "ftp",
+		"path": "Srl/05%20SW/New%20River%20Kinematics/SpatialAnalyzer2025.2/SpatialAnalyzer%202025.2.0916.2%20INSTALLA%20WINDOWSDESKTOP%20RUNTIME.exe",
 		"last_updated": "18/03/2026"
 	},
 	{
