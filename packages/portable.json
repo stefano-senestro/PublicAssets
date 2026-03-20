@@ -1,5 +1,10 @@
 [
 	{
+		"name": "spatial analyzer",
+		"type": "unset",
+		"last_updated": "18/03/2026"
+	},
+	{
 		"name": "step viewer",
 		"type": "direct",
 		"url": "https://stpviewer.com/download/stviewersetup.exe",
@@ -9,6 +14,11 @@
 		"name": "universal updater",
 		"type": "direct",
 		"url": "https://files.ms.hexagonmi.com/public/UniversalUpdater/1.5/release/x64/UniversalUpdater_1.5.720.0_x64.exe",
+		"last_updated": "18/03/2026"
+	},
+	{
+		"name": "polyworks",
+		"type": "unset",
 		"last_updated": "18/03/2026"
 	}
 ]

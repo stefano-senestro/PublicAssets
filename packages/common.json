@@ -46,5 +46,11 @@
 		"type": "winget",
 		"id": "Microsoft.Office",
 		"last_updated": "18/03/2026"
+	},
+	{
+		"name": "3cx",
+		"type": "winget",
+		"id": "9NW77489NGJ0",
+		"last_updated": "18/03/2026"
 	}
 ]
