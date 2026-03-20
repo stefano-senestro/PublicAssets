@@ -22,7 +22,7 @@
 	},
 	{
 		"name": "google earthpro",
-		"type": "widget",
+		"type": "winget",
 		"id": "Google.EarthPro",
 		"last_updated": "18/03/2026"
 	}
