@@ -1,9 +1,11 @@
 {
-	"common": "https://raw.githubusercontent.com/stefano-senestro/PublicAssets/refs/heads/main/packages/common.json",
-	"vpn": "https://raw.githubusercontent.com/stefano-senestro/PublicAssets/refs/heads/main/packages/vpn.json",
+	"urls": {
+		"common": "https://raw.githubusercontent.com/stefano-senestro/PublicAssets/refs/heads/main/packages/common.json",
+		"vpn": "https://raw.githubusercontent.com/stefano-senestro/PublicAssets/refs/heads/main/packages/vpn.json",
 
-	"admin": "https://raw.githubusercontent.com/stefano-senestro/PublicAssets/refs/heads/main/packages/admin.json",
-	"portable": "https://raw.githubusercontent.com/stefano-senestro/PublicAssets/refs/heads/main/packages/portable.json",
-	"lab": "https://raw.githubusercontent.com/stefano-senestro/PublicAssets/refs/heads/main/packages/lab.json",
-	"top": "https://raw.githubusercontent.com/stefano-senestro/PublicAssets/refs/heads/main/packages/top.json"
+		"admin": "https://raw.githubusercontent.com/stefano-senestro/PublicAssets/refs/heads/main/packages/admin.json",
+		"portable": "https://raw.githubusercontent.com/stefano-senestro/PublicAssets/refs/heads/main/packages/portable.json",
+		"lab": "https://raw.githubusercontent.com/stefano-senestro/PublicAssets/refs/heads/main/packages/lab.json",
+		"top": "https://raw.githubusercontent.com/stefano-senestro/PublicAssets/refs/heads/main/packages/top.json"
+	}
 }
