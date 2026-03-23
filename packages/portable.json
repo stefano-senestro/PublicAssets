@@ -2,13 +2,13 @@
 	{
 		"name": "spatial analyzer",
 		"type": "ftp",
-		"path": "Srl/05%20SW/New%20River%20Kinematics/SpatialAnalyzer2025.2/SpatialAnalyzer%202025.2.0916.2%20INSTALLA%20WINDOWSDESKTOP%20RUNTIME.exe",
+		"path": "Srl/05 SW/New River Kinematics/SpatialAnalyzer2025.2/SpatialAnalyzer 2025.2.0916.2 INSTALLA WINDOWSDESKTOP RUNTIME.exe",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "windows desktop-runtime",
 		"type": "ftp",
-		"path": "Srl/05%20SW/New%20River%20Kinematics/SpatialAnalyzer2025.2/windowsdesktop-runtime-6.0.36-win-x64.exe",
+		"path": "Srl/05 SW/New River Kinematics/SpatialAnalyzer2025.2/windowsdesktop-runtime-6.0.36-win-x64.exe",
 		"last_updated": "18/03/2026"
 	},
 	{
@@ -26,7 +26,7 @@
 	{
 		"name": "polyworks",
 		"type": "ftp",
-		"path": "Srl/05%20SW/InnovMetric/PolyWorksMS_2024/PolyWorksMS2024_IR11.zip",
+		"path": "Srl/05 SW/InnovMetric/PolyWorksMS_2024/PolyWorksMS2024_IR11.zip",
 		"last_updated": "18/03/2026"
 	}
 ]
