@@ -1,11 +1,5 @@
 [
 	{
-		"name": "spatial analyzer",
-		"type": "ftp",
-		"path": "Srl/05 SW/New River Kinematics/SpatialAnalyzer2025.2/SpatialAnalyzer 2025.2.0916.2 INSTALLA WINDOWSDESKTOP RUNTIME.exe",
-		"last_updated": "18/03/2026"
-	},
-	{
 		"name": "windows desktop-runtime",
 		"type": "ftp",
 		"path": "Srl/05 SW/New River Kinematics/SpatialAnalyzer2025.2/windowsdesktop-runtime-6.0.36-win-x64.exe",
@@ -21,6 +15,12 @@
 		"name": "step viewer",
 		"type": "direct",
 		"url": "https://stpviewer.com/download/stviewersetup.exe",
+		"last_updated": "18/03/2026"
+	},
+	{
+		"name": "spatial analyzer",
+		"type": "ftp",
+		"path": "Srl/05 SW/New River Kinematics/SpatialAnalyzer2025.2/SpatialAnalyzer 2025.2.0916.2 INSTALLA WINDOWSDESKTOP RUNTIME.exe",
 		"last_updated": "18/03/2026"
 	},
 	{
