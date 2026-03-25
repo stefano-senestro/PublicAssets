@@ -16,5 +16,11 @@
 		"type": "direct",
 		"url": "https://download.filezilla-project.org/client/FileZilla_3.69.6_win64_sponsored2-setup.exe",
 		"last_updated": "18/03/2026"
+	},
+	{
+		"name": "openvpn",
+		"type": "direct",
+		"url": "https://build.openvpn.net/downloads/releases/OpenVPN-2.5.2-I601-amd64.msi",
+		"last_updated": "25/03/2026"
 	}
 ]
