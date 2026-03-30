@@ -1,3 +1,11 @@
 [
-	
+	{
+		"name": "pdf24",
+		"type": "direct",
+		"url": "https://download.pdf24.org/pdf24-creator-11.29.1-x64.exe",
+		"command_line": "./{name} /verysilent",
+		"local_path": "",
+		"note": "",
+		"last_updated": "30/03/2026"
+	}
 ]
