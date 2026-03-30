@@ -6,7 +6,7 @@
 		"command_line": "./{name} /S",
 		"local_path": "",
 		"note": "to use SpatialAnalyzer 2025.2 higher versions",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	},
 	{
 		"name": "universal updater",
@@ -15,7 +15,7 @@
 		"command_line": "./{name} /S",
 		"local_path": "",
 		"note": "",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	},
 	{
 		"name": "step viewer",
@@ -24,7 +24,7 @@
 		"command_line": "./{name} /verysilent",
 		"local_path": "",
 		"note": "",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	},
 	{
 		"name": "spatial analyzer",
@@ -33,7 +33,7 @@
 		"command_line": "./{name}",
 		"local_path": "",
 		"note": "no silent for preferences",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	},
 	{
 		"name": "polyworks",
@@ -42,7 +42,7 @@
 		"command_line": "tar -xf \"{name}\" -C \"{working_dir}\" && \"./PolyWorksMS2024_IR11.exe\" /quiet",
 		"local_path": "",
 		"note": "should unzip it and run it",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	},
 	{
 		"type": "ftp",

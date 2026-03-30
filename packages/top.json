@@ -3,19 +3,19 @@
 		"name": "autocad lt",
 		"type": "unset",
 		"note": "",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	},
 	{
 		"name": "survey",
 		"type": "unset",
 		"note": "",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	},
 	{
 		"name": "land",
 		"type": "unset",
 		"note": "",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	},
 	{
 		"name": "truview",
@@ -24,7 +24,7 @@
 		"command_line": "./{name} /S",
 		"local_path": "",
 		"note": "",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	},
 	{
 		"name": "google earthpro",
@@ -33,6 +33,6 @@
 		"command_line": "./{name}",
 		"local_path": "",
 		"note": "",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	}
 ]

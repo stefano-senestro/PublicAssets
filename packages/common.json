@@ -6,7 +6,7 @@
 		"command_line": "./{name}",
 		"local_path": "",
 		"note": "",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	},
 	{
 		"name": "pdf24",
@@ -15,7 +15,7 @@
 		"command_line": "./{name} /verysilent",
 		"local_path": "",
 		"note": "",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	},
 	{
 		"name": "7zip",
@@ -24,16 +24,16 @@
 		"command_line": "./{name} /S",
 		"local_path": "",
 		"note": "",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	},
 	{
-		"name": "freefilesync - no business",
+		"name": "freefilesync",
 		"type": "direct",
 		"url": "https://freefilesync.org/download/FreeFileSync_14.8_Windows_Setup.exe",
 		"command_line": "./{name}",
 		"local_path": "",
-		"note": "",
-		"last_updated": "18/03/2026"
+		"note": "no silent because you need to purchase business edition",
+		"last_updated": "30/03/2026"
 	},
 	{
 		"name": "notepad",
@@ -42,7 +42,7 @@
 		"command_line": "./{name} /S",
 		"local_path": "",
 		"note": "",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	},
 	{
 		"name": "virtual clonedrive",
@@ -51,7 +51,7 @@
 		"command_line": "./{name} /S",
 		"local_path": "",
 		"note": "",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	},
 	{
 		"name": "adobe acrobat reader",
@@ -60,7 +60,7 @@
 		"command_line": "./{name} /sAll",
 		"local_path": "",
 		"note": "Not always working",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	},
 	{
 		"name": "microsoft 365",
@@ -69,7 +69,7 @@
 		"command_line": "./{name}",
 		"local_path": "",
 		"note": "",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	},
 	{
 		"name": "3cx",
@@ -78,6 +78,6 @@
 		"command_line": "./{name}",
 		"local_path": "",
 		"note": "",
-		"last_updated": "18/03/2026"
+		"last_updated": "30/03/2026"
 	}
 ]
