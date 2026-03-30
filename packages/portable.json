@@ -45,6 +45,7 @@
 		"last_updated": "30/03/2026"
 	},
 	{
+		"name": "rhino7",
 		"type": "ftp",
 		"path": "Srl/05 SW/Rhino_7/rhino_en-us_7.1.20343.09491.exe",
 		"command_line": "{name} /S",
