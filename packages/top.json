@@ -2,32 +2,37 @@
 	{
 		"name": "autocad lt",
 		"type": "unset",
+		"note": "",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "survey",
 		"type": "unset",
+		"note": "",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "land",
 		"type": "unset",
+		"note": "",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "truview",
 		"type": "ftp",
 		"path": "Top/05 SW/Leica TruView/TruView_Enterprise_Setup.exe",
-		"command_line": "./{name} --silent",
+		"command_line": "./{name} /S",
 		"local_path": "",
+		"note": "",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "google earthpro",
 		"type": "winget",
 		"id": "Google.EarthPro",
-		"command_line": "msiexec.exe {name} /i /qn /norestart",
+		"command_line": "./{name}",
 		"local_path": "",
+		"note": "",
 		"last_updated": "18/03/2026"
 	}
 ]

@@ -3,48 +3,53 @@
 		"name": "windows desktop-runtime",
 		"type": "ftp",
 		"path": "Srl/05 SW/New River Kinematics/SpatialAnalyzer2025.2/windowsdesktop-runtime-6.0.36-win-x64.exe",
-		"command_line": "./{name} --silent",
+		"command_line": "./{name} /S",
 		"local_path": "",
+		"note": "to use SpatialAnalyzer 2025.2 higher versions",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "universal updater",
 		"type": "direct",
 		"url": "https://files.ms.hexagonmi.com/public/UniversalUpdater/1.5/release/x64/UniversalUpdater_1.5.720.0_x64.exe",
-		"command_line": "./{name} --silent",
+		"command_line": "./{name} /S",
 		"local_path": "",
+		"note": "",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "step viewer",
 		"type": "direct",
 		"url": "https://stpviewer.com/download/stviewersetup.exe",
-		"command_line": "./{name} --silent",
+		"command_line": "./{name} /verysilent",
 		"local_path": "",
+		"note": "",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "spatial analyzer",
 		"type": "ftp",
 		"path": "Srl/05 SW/New River Kinematics/SpatialAnalyzer2025.2/SpatialAnalyzer 2025.2.0916.2 INSTALLA WINDOWSDESKTOP RUNTIME.exe",
-		"command_line": "./{name} --silent",
+		"command_line": "./{name}",
 		"local_path": "",
+		"note": "no silent for preferences",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "polyworks",
 		"type": "ftp",
-		"path": "Srl/05 SW/InnovMetric/PolyWorksMS_2024/PolyWorksMS2024_IR11/PolyWorksMS2024_IR11.exe",
-		"command_line": "./{name} --silent",
+		"path": "Srl/05 SW/InnovMetric/PolyWorksMS_2024/PolyWorksMS2024_IR11/PolyWorksMS2024_IR11.zip",
+		"command_line": "tar -xf \"{name}\" -C \"{working_dir}\" && \"./PolyWorksMS2024_IR11.exe\" /quiet",
 		"local_path": "",
+		"note": "should unzip it and run it",
 		"last_updated": "18/03/2026"
 	},
 	{
-		"name": "rhino-7",
 		"type": "ftp",
 		"path": "Srl/05 SW/Rhino_7/rhino_en-us_7.1.20343.09491.exe",
-		"command_line": "./{name} --silent",
+		"command_line": "./{name} /S",
 		"local_path": "",
+		"note": "",
 		"last_updated": "24/03/2026"
 	}
 ]

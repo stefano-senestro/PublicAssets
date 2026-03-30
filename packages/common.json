@@ -3,72 +3,81 @@
 		"name": "chrome",
 		"type": "winget",
 		"id": "Google.Chrome",
-		"command_line": "msiexec.exe {name} /i /qn /norestart",
+		"command_line": "./{name}",
 		"local_path": "",
+		"note": "",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "pdf24",
 		"type": "direct",
 		"url": "https://download.pdf24.org/pdf24-creator-11.29.1-x64.exe",
-		"command_line": "./{name} --silent",
+		"command_line": "./{name} /verysilent",
 		"local_path": "",
+		"note": "",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "7zip",
 		"type": "direct",
 		"url": "https://www.7-zip.org/a/7z2600-x64.exe",
-		"command_line": "./{name} --silent",
+		"command_line": "./{name} /S",
 		"local_path": "",
+		"note": "",
 		"last_updated": "18/03/2026"
 	},
 	{
-		"name": "freefilesync",
+		"name": "freefilesync - no business",
 		"type": "direct",
 		"url": "https://freefilesync.org/download/FreeFileSync_14.8_Windows_Setup.exe",
-		"command_line": "./{name} --silent",
+		"command_line": "./{name}",
 		"local_path": "",
+		"note": "",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "notepad",
 		"type": "direct",
 		"url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.2/npp.8.9.2.Installer.x64.exe",
-		"command_line": "./{name} --silent",
+		"command_line": "./{name} /S",
 		"local_path": "",
+		"note": "",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "virtual clonedrive",
 		"type": "direct",
 		"url": "https://www.elby.ch/download/SetupVirtualCloneDrive5530.exe",
-		"command_line": "./{name} --silent",
+		"command_line": "./{name} /S",
 		"local_path": "",
+		"note": "",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "adobe acrobat reader",
 		"type": "direct",
 		"url": "https://admdownload.adobe.com/rdcm/installers/live/readerdc64_ha_cra_hrma_install.exe",
-		"command_line": "./{name} --silent",
+		"command_line": "./{name} /sAll",
 		"local_path": "",
+		"note": "Not always working",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "microsoft 365",
 		"type": "winget",
 		"id": "Microsoft.Office",
-		"command_line": "msiexec.exe {name} /i /qn /norestart",
+		"command_line": "./{name}",
 		"local_path": "",
+		"note": "",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "3cx",
 		"type": "winget",
 		"id": "3CX.Softphone",
-		"command_line": "msiexec.exe {name} /i /qn /norestart",
+		"command_line": "./{name}",
 		"local_path": "",
+		"note": "",
 		"last_updated": "18/03/2026"
 	}
 ]
