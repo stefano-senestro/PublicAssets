@@ -30,7 +30,7 @@
 		"name": "openvpn",
 		"type": "direct",
 		"url": "https://build.openvpn.net/downloads/releases/OpenVPN-2.5.2-I601-amd64.msi",
-		"command_line": "msiexec.exe /i {name} /quiet /norestart",
+		"command_line": "C:/Windows/System32/msiexec.exe /i {name} /quiet /norestart",
 		"local_path": "",
 		"note": "typically should restart pc",
 		"last_updated": "25/03/2026"
