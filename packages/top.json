@@ -18,12 +18,16 @@
 		"name": "truview",
 		"type": "ftp",
 		"path": "Top/05 SW/Leica TruView/TruView_Enterprise_Setup.exe",
+		"command_line": "./{name} --silent",
+		"local_path": "",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "google earthpro",
 		"type": "winget",
 		"id": "Google.EarthPro",
+		"command_line": "msiexec.exe {name} /i /qn /norestart",
+		"local_path": "",
 		"last_updated": "18/03/2026"
 	}
 ]

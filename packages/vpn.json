@@ -3,24 +3,32 @@
 		"name": "supremo",
 		"type": "direct",
 		"url": "https://www.nanosystems.com/public/download/Supremo.exe",
+		"command_line": "./{name} --silent",
+		"local_path": "",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "watchguard",
 		"type": "direct",
 		"url": "https://cdn.watchguard.com/SoftwareCenter/Files/MUVPN_SSL/2026_1/WG-MVPN-SSL_2026_1.exe",
+		"command_line": "./{name} --silent",
+		"local_path": "",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "filezilla",
 		"type": "direct",
 		"url": "https://download.filezilla-project.org/client/FileZilla_3.69.6_win64_sponsored2-setup.exe",
+		"command_line": "./{name} --silent",
+		"local_path": "",
 		"last_updated": "18/03/2026"
 	},
 	{
 		"name": "openvpn",
 		"type": "direct",
 		"url": "https://build.openvpn.net/downloads/releases/OpenVPN-2.5.2-I601-amd64.msi",
+		"command_line": "./{name} --silent",
+		"local_path": "",
 		"last_updated": "25/03/2026"
 	}
 ]
