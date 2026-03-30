@@ -3,7 +3,7 @@
 		"name": "pcdmis",
 		"type": "ftp",
 		"path": "Lab/05 SW/PC-DMIS/2025/2025.2/Pcdmis2025.2_20.2.103.0_x64.exe",
-		"command_line": "./{name} /S",
+		"command_line": "{name} /S",
 		"local_path": "",
 		"note": "",
 		"last_updated": "30/03/2026"

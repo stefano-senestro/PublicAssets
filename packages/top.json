@@ -21,7 +21,7 @@
 		"name": "truview",
 		"type": "ftp",
 		"path": "Top/05 SW/Leica TruView/TruView_Enterprise_Setup.exe",
-		"command_line": "./{name} /S",
+		"command_line": "{name} /S",
 		"local_path": "",
 		"note": "",
 		"last_updated": "30/03/2026"
@@ -30,7 +30,7 @@
 		"name": "google earthpro",
 		"type": "winget",
 		"id": "Google.EarthPro",
-		"command_line": "./{name}",
+		"command_line": "{name}",
 		"local_path": "",
 		"note": "",
 		"last_updated": "30/03/2026"

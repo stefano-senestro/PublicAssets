@@ -3,7 +3,7 @@
 		"name": "supremo",
 		"type": "direct",
 		"url": "https://www.nanosystems.com/public/download/Supremo.exe",
-		"command_line": "./{name}",
+		"command_line": "{name}",
 		"local_path": "",
 		"note": "no silent for code id",
 		"last_updated": "30/03/2026"
@@ -12,7 +12,7 @@
 		"name": "watchguard",
 		"type": "direct",
 		"url": "https://cdn.watchguard.com/SoftwareCenter/Files/MUVPN_SSL/2026_1/WG-MVPN-SSL_2026_1.exe",
-		"command_line": "./{name} /verysilent /norestart",
+		"command_line": "{name} /verysilent /norestart",
 		"local_path": "",
 		"note": "typically should restart pc",
 		"last_updated": "30/03/2026"
@@ -21,7 +21,7 @@
 		"name": "filezilla",
 		"type": "direct",
 		"url": "https://download.filezilla-project.org/client/FileZilla_3.69.6_win64_sponsored2-setup.exe",
-		"command_line": "./{name} /S",
+		"command_line": "{name} /S",
 		"local_path": "",
 		"note": "",
 		"last_updated": "30/03/2026"

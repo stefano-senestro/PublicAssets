@@ -3,7 +3,7 @@
 		"name": "step viewer",
 		"type": "direct",
 		"url": "https://stpviewer.com/download/stviewersetup.exe",
-		"command_line": "./{name} /verysilent",
+		"command_line": "{name} /verysilent",
 		"local_path": "",
 		"note": "",
 		"last_updated": "30/03/2026"
