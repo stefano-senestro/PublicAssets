@@ -52,5 +52,14 @@
 		"local_path": "",
 		"note": "",
 		"last_updated": "24/03/2026"
+	},
+	{
+		"name": "sa_manager",
+		"type": "ftp",
+		"path": "Srl/05 SW/New River Kinematic/License Manager SW/sa_manager_launcher.exe",
+		"command_line": "{name} /VERYSILENT",
+		"local_path": "",
+		"note": "sa_manager for server licenses",
+		"last_updated": "03/04/2026"
 	}
 ]
