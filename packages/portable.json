@@ -38,8 +38,8 @@
 	{
 		"name": "polyworks",
 		"type": "ftp",
-		"path": "Srl/05 SW/InnovMetric/PolyWorksMS_2024/PolyWorksMS2024_IR11/PolyWorksMS2024_IR11.zip",
-		"command_line": "tar -xf {name} -C {working_dir} && \"PolyWorksMS2024_IR11.exe\" /quiet",
+		"path": "Srl/05 SW/InnovMetric/PolyWorksMS_2024/PolyWorksMS2024_IR11.zip",
+		"command_line": "tar -xf \"{working_dir}\\PolyWorksMS2024_IR11.zip\" -C \"{working_dir}\" && \"{working_dir}\\PolyWorksMS2024_IR11.exe\" /quiet",
 		"local_path": "",
 		"note": "should unzip it and run it",
 		"last_updated": "30/03/2026"
