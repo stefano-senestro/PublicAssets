@@ -3,7 +3,7 @@
 		"name": "ninjaone",
 		"type": "direct",
 		"url": "https://eu.ninjarmm.com/agent/installer/bcb98757-7bba-4685-9c98-63b21600ee6a/11.0.5792/NinjaOne-Agent-GEATOPsrl-Ufficioprincipale-Auto.msi",
-		"command_line": "msiexec /i {name}",
+		"command_line": "msiexec /i {name} /qn",
 		"local_path": "",
 		"note": "NinjaOne di GDSystem - bisogna approvare il pc",
 		"last_updated": "19/06/2026"
