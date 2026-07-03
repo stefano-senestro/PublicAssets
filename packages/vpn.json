@@ -1,0 +1,47 @@
+[
+	{
+		"name": "ninjaone",
+		"type": "direct",
+		"url": "https://eu.ninjarmm.com/agent/installer/bcb98757-7bba-4685-9c98-63b21600ee6a/11.0.5792/NinjaOne-Agent-GEATOPsrl-Ufficioprincipale-Auto.msi",
+		"command_line": "msiexec /i {name}",
+		"local_path": "",
+		"note": "NinjaOne di GDSystem - bisogna approvare il pc",
+		"last_updated": "19/06/2026"
+	},
+	{
+		"name": "filezilla",
+		"type": "direct",
+		"url": "https://download.filezilla-project.org/client/FileZilla_3.69.6_win64_sponsored2-setup.exe",
+		"command_line": "{name} /S",
+		"local_path": "",
+		"note": "",
+		"last_updated": "30/03/2026"
+	},
+	{
+		"name": "openvpn",
+		"type": "direct",
+		"url": "https://build.openvpn.net/downloads/releases/OpenVPN-2.5.2-I601-amd64.msi",
+		"command_line": "{name} /quiet /norestart",
+		"local_path": "",
+		"note": "typically should restart pc",
+		"last_updated": "25/03/2026"
+	},
+	{
+		"name": "supremo",
+		"type": "direct",
+		"url": "https://www.nanosystems.com/public/download/Supremo.exe",
+		"command_line": "{name}",
+		"local_path": "",
+		"note": "no silent for code id (remember to add license code)",
+		"last_updated": "30/03/2026"
+	},
+	{
+		"name": "supremo_license",
+		"type": "ftp",
+		"path": "Srl/05 SW/Supremo/license.txt",
+		"command_line": "notepad {name}",
+		"local_path": "",
+		"note": "business license code",
+		"last_updated": "27/05/2026"
+	}
+]

@@ -1,0 +1,101 @@
+[
+	{
+		"name": "universal updater",
+		"type": "direct",
+		"url": "https://files.ms.hexagonmi.com/public/UniversalUpdater/1.5/release/x64/UniversalUpdater_1.5.720.0_x64.exe",
+		"command_line": "{name} /S",
+		"local_path": "",
+		"note": "",
+		"last_updated": "30/03/2026"
+	},
+	{
+		"name": "step viewer",
+		"type": "direct",
+		"url": "https://stpviewer.com/download/stviewersetup.exe",
+		"command_line": "{name} /verysilent",
+		"local_path": "",
+		"note": "",
+		"last_updated": "30/03/2026"
+	},
+	{
+		"name": "windows desktop-runtime 6.0",
+		"type": "ftp",
+		"path": "Srl/05 SW/New River Kinematics/SpatialAnalyzer 2025.2/dependencies/windowsdesktop-runtime-6.0.36-win-x64.exe",
+		"command_line": "{name} /S",
+		"local_path": "",
+		"note": "to use SpatialAnalyzer 2025.2 higher versions",
+		"last_updated": "30/03/2026"
+	},
+	{
+		"name": "spatial analyzer 2025.1",
+		"type": "ftp",
+		"path": "Srl/05 SW/New River Kinematics/SpatialAnalyzer 2025.1/SpatialAnalyzer 2025.1.0327.6-Installer.exe",
+		"command_line": "{name}",
+		"local_path": "",
+		"note": "no silent for preferences",
+		"last_updated": "30/03/2026"
+	},
+	{
+		"name": "spatial analyzer 2025.2",
+		"type": "ftp",
+		"path": "Srl/05 SW/New River Kinematics/SpatialAnalyzer 2025.2/SpatialAnalyzer 2025.2.0916.2-Installer.exe",
+		"command_line": "{name} /S",
+		"local_path": "",
+		"note": "silent since configured 2025.1",
+		"last_updated": "30/03/2026"
+	},
+	{
+		"name": "windows desktop-runtime 6.0",
+		"type": "ftp",
+		"path": "Srl/05 SW/New River Kinematics/SpatialAnalyzer 2026.1.0529.7/dependencies/windowsdesktop-runtime-6.0.36-win-x64.exe",
+		"command_line": "{name} /S",
+		"local_path": "",
+		"note": "to use SpatialAnalyzer 2026.1 higher versions",
+		"last_updated": "30/03/2026"
+	},
+	{
+		"name": "windows desktop-runtime 8.0",
+		"type": "ftp",
+		"path": "Srl/05 SW/New River Kinematics/SpatialAnalyzer 2026.1.0529.7/dependencies/windowsdesktop-runtime-8.0.22-win-x64.exe",
+		"command_line": "{name} /S",
+		"local_path": "",
+		"note": "to use SpatialAnalyzer 2026.1 higher versions",
+		"last_updated": "30/03/2026"
+	},
+	{
+		"name": "spatial analyzer 2026.1",
+		"type": "ftp",
+		"path": "Srl/05 SW/New River Kinematics/SpatialAnalyzer 2026.1.0529.7/SpatialAnalyzer 2026.1.0529.7-Installer.exe",
+		"command_line": "{name} /S",
+		"local_path": "",
+		"note": "silent since configured 2025.1",
+		"last_updated": "30/03/2026"
+	},
+	{
+		"name": "polyworks",
+		"type": "ftp",
+		"path": "Srl/05 SW/InnovMetric/PolyWorksMS_2024/PolyWorksMS2024_IR11.zip",
+		"command_line": "cmd /C tar -xf \"{working_dir}\\PolyWorksMS2024_IR11.zip\" -C \"{working_dir}\" && \"{working_dir}\\PolyWorksMS2024_IR11.exe\" /quiet",
+		"local_path": "",
+		"note": "should unzip it and run it",
+		"last_updated": "30/03/2026"
+	},
+	{
+		"name": "rhino7",
+		"type": "ftp",
+		"path": "Srl/05 SW/Rhino_7/rhino_en-us_7.1.20343.09491.exe",
+		"command_line": "{name} /S",
+		"local_path": "",
+		"note": "",
+		"last_updated": "24/03/2026"
+	},
+	{
+		"name": "sa_manager",
+		"type": "ftp",
+		"path": "Srl/05 SW/New River Kinematics/License Manager SW/sa_manager-installer-stable2.0.exe",
+		"command_line": "{name} /VERYSILENT",
+		"local_path": "",
+		"note": "sa_manager for server licenses",
+		"last_updated": "03/04/2026"
+	}
+]

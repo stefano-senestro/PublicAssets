@@ -1,0 +1,71 @@
+[
+	{
+		"name": "autocad-2024-lt",
+		"type": "unset",
+		"note": "",
+		"last_updated": "30/03/2026"
+	},
+	{
+		"name": "Verto2K",
+		"type": "ftp",
+		"path": "Top/05 SW/Verto 2k/Setup_Verto2k.exe",
+		"command_line": "{name} /S",
+		"local_path": "",
+		"note": "",
+		"last_updated": "22/04/2026"
+	},
+	{
+		"name": "survey",
+		"type": "ftp",
+		"path": "Top/05 SW/Topko 2022/SierraSoft_Survey_64.zip",
+		"command_line": "tar -xf \"{working_dir}\\SierraSoft_Survey_64.zip\" -C \"{working_dir}\" && \"{working_dir}\\SierraSoft_Survey_64.exe\" /S",
+		"local_path": "",
+		"note": "should unzip it and run it",
+		"last_updated": "28/04/2026"
+	},
+	{
+		"name": "land",
+		"type": "ftp",
+		"path": "Top/05 SW/Topko 2022/SierraSoft_Land_64.zip",
+		"command_line": "tar -xf \"{working_dir}\\SierraSoft_Land_64.zip\" -C \"{working_dir}\" && \"{working_dir}\\SierraSoft_Land_64.exe\" /S",
+		"local_path": "",
+		"note": "should unzip it and run it",
+		"last_updated": "28/04/2026"
+	},
+	{
+		"name": "topko",
+		"type": "ftp",
+		"path": "Top/05 SW/Topko 2022/Setup_TopkoSU15ITA.zip",
+		"command_line": "tar -xf \"{working_dir}\\Setup_TopkoSU15ITA.zip\" -C \"{working_dir}\" && \"{working_dir}\\TopkoSU15ITA\\Setup_TopkoSU15ITA.exe\" /S",
+		"local_path": "",
+		"note": "should unzip it and run it",
+		"last_updated": "28/04/2026"
+	},
+	{
+		"name": "truview",
+		"type": "ftp",
+		"path": "Top/05 SW/Leica TruView/TruView_Enterprise_Setup.exe",
+		"command_line": "{name} /S",
+		"local_path": "",
+		"note": "",
+		"last_updated": "30/03/2026"
+	},
+	{
+		"name": "blk-data-manager",
+		"type": "ftp",
+		"path": "Top/05 SW/Leica_BLK_Data_Manager/BLKDataManagerSetup2026.0.1.30099.exe",
+		"command_line": "{name} /S",
+		"local_path": "",
+		"note": "",
+		"last_updated": "30/03/2026"
+	},
+	{
+		"name": "google earthpro",
+		"type": "winget",
+		"id": "Google.EarthPro",
+		"command_line": "{name}",
+		"local_path": "",
+		"note": "",
+		"last_updated": "30/03/2026"
+	}
+]
