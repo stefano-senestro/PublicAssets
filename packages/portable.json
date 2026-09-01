@@ -92,7 +92,7 @@
 	{
 		"name": "sa_manager",
 		"type": "ftp",
-		"path": "Srl/05 SW/New River Kinematics/License Manager SW/sa_manager-installer-stable2.0.exe",
+		"path": "Srl/05 SW/New River Kinematics/License Manager SW/sa_manager-installer-stable2.1.exe",
 		"command_line": "{name} /VERYSILENT",
 		"local_path": "",
 		"note": "sa_manager for server licenses",
